@@ -1,5 +1,7 @@
 FIRST LINE.
 
-IPSUM BELOW
+WEbsite contents
+
+Here are the files in website.
 
 Index.html
